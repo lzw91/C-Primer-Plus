@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(void){
+    int sum=0,count = 0;
+    int day;
+    printf("Enter a day: ");
+    scanf("%d",&day);
+    while(++count <= day){
+        sum+=count*count;
+    }
+    printf("The sum is $%d\n",sum);
+    return 0;
+}
