@@ -1,0 +1,11 @@
+/*
+a.
+&grid[22][56]
+b.
+graid[22]
+&graid[22][0]
+c.
+&graid[0][0]
+graid[0]
+graid
+*/
