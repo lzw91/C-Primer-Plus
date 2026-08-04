@@ -1,0 +1,15 @@
+/*
+How are ya, sweetie? How are ya, sweetie? 
+Beat the clock.
+eat the clock.
+Beat the clock. Win a toy.
+Beat
+chat
+hat
+at
+t
+t
+at
+hat
+How are ya, sweetie?
+*/
